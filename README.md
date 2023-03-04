@@ -1,0 +1,3 @@
+# TRAININGJS
+
+training js skills
